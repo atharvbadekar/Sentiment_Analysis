@@ -20,7 +20,7 @@ Welcome to the Sentiment Analysis of Amazon Reviews project! In this project, I 
 ## Technologies and Tools Used
 
 - **Python**: The primary programming language for the entire project.
-- **NLTK: NLP libraries for advanced text processing and analysis.
+- **NLTK**: NLP libraries for advanced text processing and analysis.
 - **Amazon Reviews Dataset**: A carefully curated dataset used for model training and testing.
 
 ## Project Impact and Future Scope
@@ -37,10 +37,5 @@ To get started with this project, follow these steps:
 2. Install required dependencies: `pip install -r requirements.txt`
 3. Run the sentiment analysis system: `python sentiment-analysis-amazon-review.py`
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
 
 Feel free to contact me at your.email@example.com for any inquiries or collaboration opportunities.
