@@ -38,4 +38,4 @@ To get started with this project, follow these steps:
 3. Run the sentiment analysis system: `python sentiment-analysis-amazon-review.py`
 
 
-Feel free to contact me at your.email@example.com for any inquiries or collaboration opportunities.
+Feel free to contact me at mr.atharvbadekar9422@gmail.com for any inquiries or collaboration opportunities.
